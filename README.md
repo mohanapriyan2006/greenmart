@@ -153,6 +153,8 @@ greenmart/
 
 ---
 
+![img](https://mohanapriyan.netlify.app/assets/greenmart-xMfI8lMj.png)
+
 ## 🎨 Design Philosophy
 
 ### 🟢 **Green Theme**

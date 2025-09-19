@@ -1,0 +1,22 @@
+.main-cont {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 3rem;
+	margin-top: -20px;
+}
+
+.item {
+	font-family: sans-serif;
+	width: 300px;
+	height: 180px;
+	background-color: #d8f6da;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	border-radius: 25px;
+	border: 1px dashed #0c501287;
+}

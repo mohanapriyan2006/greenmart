@@ -1,0 +1,139 @@
+* {
+	text-align: center;
+}
+.log {
+	padding: 20px;
+	margin: 50px;
+}
+
+h1 {
+	color: rgb(18, 110, 16);
+	font-family: "Montserrat";
+}
+h2 {
+	color: rgb(18, 110, 16);
+	font-family: "Montserrat";
+	font-size: 20px;
+}
+
+select {
+	background-color: #00c013; /* Darker green for button */
+	color: white;
+	border: none;
+	border-radius: 7px;
+	font-family: "Montserrat";
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.selp {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 0.8rem;
+}
+.sel {
+	display: flex;
+	flex-direction: column;
+	width: 150px;
+	justify-content: center;
+}
+select:hover {
+	background-color: #0aff23d4;
+	cursor: pointer;
+}
+.submit:hover {
+	cursor: pointer;
+	background-color: #0aff23d4;
+}
+
+.in {
+	padding-top: 35px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 1rem;
+}
+
+input {
+	border-radius: 4px;
+	width: 250px;
+	text-align: center;
+	justify-content: center;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	background-color: #ededed;
+	border: #ededed;
+}
+
+.submit {
+	margin-top: 15px;
+	background-color: #00c013;
+	color: white;
+	border: #4caf50;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 4px;
+	width: 254px;
+	text-align: center;
+	justify-content: center;
+	font-family: "Montserrat";
+	font-weight: bold;
+	font-size: 20px;
+}
+
+/* .greenmart-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #228B22;
+    color: white;
+  }
+  
+  .dropdown-button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .dropdown-button:hover {
+    background-color: #3e8e41;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  
+  .dropdown-button:hover .dropdown-content {
+    display: block;
+  }
+  
+  .arrow-down {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid black;
+    margin-left: 5px;
+  } */

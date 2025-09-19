@@ -1,0 +1,74 @@
+.p {
+	margin-top: 30px;
+	background-color: #eeeeee;
+	height: 196px;
+	width: 300px;
+	margin-left: 15%;
+	border-radius: 10px;
+	margin-bottom: 20px;
+}
+.dot {
+	font-size: 50px;
+	margin-top: -40px;
+}
+.c .detail {
+	display: flex;
+	flex-direction: column;
+	margin-top: -60px;
+}
+
+.c .detail h3 {
+	text-align: start;
+	color: black;
+}
+.c .detail h2 {
+	text-align: start;
+	margin-top: -30px;
+	color: black;
+}
+.c .detail p {
+	margin-top: -15px;
+	font-size: 10px;
+	margin-left: -170px;
+	color: black;
+}
+.c .detail input {
+	background-color: #e2e2e2;
+	color: black;
+	width: 60px;
+	height: 15px;
+
+	font-weight: 800;
+	margin-left: -160px;
+	margin-top: -10px;
+}
+.c .detail form {
+	margin-top: -30px;
+	margin-left: -140px;
+}
+
+.btnC {
+	margin-left: 20%;
+	margin-top: 40px;
+}
+
+.btnC button {
+	height: 37px;
+	width: 260px;
+	border-radius: 10px;
+	background-color: #00c013;
+	color: white;
+	font-weight: 600;
+	border: #00c013;
+	padding-top: 8px;
+	margin-bottom: 20px;
+}
+.btnC button img {
+	margin-left: 10px;
+	height: 17px;
+	width: 17px;
+}
+
+.btnC button:hover {
+	background-color: #11d524;
+}

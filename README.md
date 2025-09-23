@@ -22,7 +22,13 @@ GreenMart is a comprehensive **digital agriculture marketplace** built with Reac
 ### 🎯 Our Mission
 To empower farmers with digital tools, connect them directly with buyers, eliminate middlemen, and create a transparent, efficient agricultural marketplace that benefits everyone in the supply chain.
 
----
+----
+
+## Mindmap 
+
+![mindmap](./screenshot/mindmap.jpg)
+
+----
 
 ## ✨ Features
 
@@ -67,6 +73,13 @@ To empower farmers with digital tools, connect them directly with buyers, elimin
 - **Location Settings**: Set your preferred location and delivery areas
 - **Notification Preferences**: Customize alerts and updates
 - **Privacy Controls**: Manage your data and privacy settings
+
+
+---
+
+## Demo
+
+![demo](./screenshot/demo.gif)
 
 ---
 

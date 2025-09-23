@@ -15,6 +15,12 @@
 
 ---
 
+## 🌿 GreenMart
+
+![img](https://mohanapriyan.netlify.app/assets/greenmart-xMfI8lMj.png)
+
+-----
+
 ## 🌟 What is GreenMart?
 
 GreenMart is a comprehensive **digital agriculture marketplace** built with React.js that revolutionizes how farmers, buyers, and agricultural communities connect and trade. Our platform bridges the gap between traditional farming and modern technology, creating a seamless ecosystem for agricultural commerce.
@@ -166,7 +172,6 @@ greenmart/
 
 ---
 
-![img](https://mohanapriyan.netlify.app/assets/greenmart-xMfI8lMj.png)
 
 ## 🎨 Design Philosophy
 
